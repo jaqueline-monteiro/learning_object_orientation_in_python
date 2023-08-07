@@ -4,7 +4,7 @@ A simple bank project to practice object orientation in Python 3.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **learning-python**
+| :sparkles: Nome        | **learning_object_orientation_in_python**
 | :label: Tecnologias | python3
 <!--| :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
